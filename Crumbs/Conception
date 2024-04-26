@@ -1,0 +1,3 @@
+Multiplayer mode: One device & (LAN or Online) Modes
+	One device: Takes turn (where other players look away from the screen) to show the dice on screen.
+	LAN & Online: Uses sockets
