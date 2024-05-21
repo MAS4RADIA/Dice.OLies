@@ -47,7 +47,7 @@ def select_table_mode (sign):
     linked.set_name ("network")
 
     mode.set_homogeneous (True)
-    same_device.set_valign (Gtk.Align.START)
+    same_device.set_valign (Gtk.Align.END)
     same_device.set_halign (Gtk.Align.CENTER)
     linked.set_halign (Gtk.Align.CENTER)
     linked.set_valign (Gtk.Align.START)
